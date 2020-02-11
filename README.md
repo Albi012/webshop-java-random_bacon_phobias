@@ -1,8 +1,6 @@
-# Codecool Online Shop
+# Random Bacon Phobias Online Shop
 
-Java SE: Web Project skeleton
+Just a simple webshop. You can choose between products,place an order and modify cart.
 
-# Install
-
-Import this project to IntelliJ as a Maven project.
-IntelliJ can auto-install the dependencies based on the pom.xml
+#
+I worked on the cart editing, data collecting from users and designing.
